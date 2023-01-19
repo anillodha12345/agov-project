@@ -1,0 +1,33 @@
+.utitlity_wrapper {
+	background-image: url(/src/assets/images/utilitybanner.png);
+	background-repeat: no-repeat;
+    background-position: left 141%;
+    background-size: 72% 58%;
+    padding: 1px;
+}
+
+.agov_utility_card {
+	/* color: linear-gradient(90deg, #ccbbff 0%, #7427ff 52.08%, #00baff 100%);
+	 */
+	/* color: #1c0d36; */
+	/* color: -webkit-linear-gradient(#ccbbff, #7427ff, #00baff); */
+}
+.agov_utility_card {
+	background: linear-gradient(to right, #ccbbff, #7427ff, #00baff);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	font-family: 900;
+}
+.utility_paragraph {
+	background: linear-gradient(to right, #ccbbff, #7427ff, #00baff);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	font-family: 900;
+	font-size: 20px;
+}
+
+
+.banner_utility-paragraph {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 15px;
+}

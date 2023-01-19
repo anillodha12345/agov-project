@@ -1,0 +1,29 @@
+.footer_section_left {
+    background-color: #55ACEE;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+.footer_wrap2 {
+    background-image: url("../../../assets/images/footer-bottom-img.svg");
+}
+
+.footer_section_right  {
+    background-color: #5865F2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.twitter_footer_left {
+    display: block;
+    align-self: center;
+}
+.twitter_footer_right {
+    display: block;
+    align-self: center;
+
+}
+.footer_paragraph {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer_icon_left {
+    text-align: end !important;
+}

@@ -1,0 +1,94 @@
+.roadmap_wrap {
+	background-image: url("../../assets/images/agov_roadmap.png");
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: cover, contain;
+ background-size: 100% 97%, 50% 100%;
+	background-position: top right, top right;
+	padding: 1px;
+}
+.roadmap_heading {
+	background: linear-gradient(90deg, #000000 0%, #4c2d8d 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+.roadmap_paragraph {
+	padding: 0px 200px 0px 200px;
+	color: #000000;
+	font-family: auto;
+}
+  .roadmap_box .roadmap_box1 {
+	position: relative;
+	transform: translate(-7% ,30%);
+	width: 20%;
+	height: 20vh;
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  }
+  .roadmap_box .roadmap_box1 li {
+	font-family: auto !important;
+  }
+
+  .roadmap_box .roadmap_box2 {
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	width: 20%;
+	height: 20vh;
+	font-family: 'HelveticaNeueLTProBlkCn';
+  }
+
+.roadmap_box-paragraph {
+	font-family: auto !important;
+}
+  .roadmap_box .roadmap_box3 {
+	position: relative;
+	transform: translate(-19% ,-30%);
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	width: 25%;
+	height: 20vh;
+	
+  }
+  .roadmap_box .roadmap_box4 {
+	position: relative;
+	transform: translate(5% ,-40%);
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	width: 25%;
+	height: 20vh;
+  }
+  .roadmap_box .roadmap_box5 {
+	position: relative;
+	transform: translate(-25% ,-55%);
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	position: relative;
+	width: 30%;
+	
+  }
+  .roadmap_box .roadmap_box6 {
+	position: relative;
+	transform: translate(-70% ,-50%);
+	width: 30%;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	font-family: 'HelveticaNeueLTProBlkCn';	
+  }
+  .roadmap_box .roadmap_box7 {
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	width: 40%;
+	position: relative;
+    transform: translate(-65%, -40%);
+	
+  }
+  .roadmap_box .roadmap_box8 {
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+	width: 40%;
+	position: relative;
+    transform: translate(-20%, -15%);
+	
+  }
+
+.roadmap_heading1 {
+	background: linear-gradient(90deg, #000000 0%, #4C2D8D 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}

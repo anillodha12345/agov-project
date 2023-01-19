@@ -1,0 +1,41 @@
+.heading {
+	font-family: "Helvetica Neue LT Pro";
+	font-weight: 900;
+	line-height: 40px;
+}
+.join_button {
+	border: 1px solid #fb00ff73 !important;
+}
+.pay_button {
+	background: linear-gradient(270deg, #d063eb 0%, #eb63d9 100%);
+	border-radius: 10px;
+}
+.ethereumbutton1 {
+	background: linear-gradient(90deg, #000000 0%, #4c2d8d 100%);
+	border-radius: 80px;
+	font-family: auto !important;
+	padding: 0px 5px 0px 14px !important;
+	margin: 0px;
+
+}
+.ethereumbutton2 {
+	background: linear-gradient(90deg, #000000 0%, #4c2d8d 100%);
+	border-radius: 80px;
+	font-family: auto !important;
+	padding: 0px 5px 0px 14px !important;
+	margin: 0px;
+}
+.dollar_paragraph {
+	display: flex;
+}
+.cold_drink {
+	text-align: center;
+}
+.banner-paragraph {
+	font-family: auto !important;
+	font-size: 15px;
+
+}
+.pay_button {
+	font-family: auto !important;
+}

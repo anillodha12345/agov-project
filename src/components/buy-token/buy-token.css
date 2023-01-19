@@ -1,0 +1,61 @@
+.buy_token_wrapper {
+	background-image: url("../../assets/images/bannerimage1.svg"), url("../../assets/images/buybackground.svg"),
+		url("../../assets/images/agovDaoBanner2.png"), url("../../assets/images/buytoken1.svg"),
+		url("../../assets/images/buytoken2.svg");
+	background-position: 0 0, 100% 0, 0 100%, top  12% right 0%, left -10% center;
+	background-size: 100%, 100%, 100% 130%, 17%, 30%;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 7% 30px 9%;
+}
+
+.paragraph_buytoken1 {
+	font-size: 13px !important;
+	font-weight: 900;
+	text-align: center;
+	padding: 0px 326px 0 395px !important;
+}
+
+.paragraph_buytoken2 {
+	text-align: center;
+	padding: 0px 258px 0px 381px;
+	font-size: 10px;
+font-family: auto !important;
+	}
+
+.buytoken_image_transparent {
+	/* display: flex; */
+	 opacity: 0.8; 
+	 background-color: rgb(42,47,88);
+	 /* filter: blur(2px); */
+	 border-radius: 10px;
+  /* -webkit-filter: blur(2px); */
+	/* background: radial-gradient(100% 100% at 100% 36%, #65d6e8 -42%, rgba(75, 173, 233, 0) 500%); */
+}
+.paragraph_buytoken1 {
+	background: linear-gradient(to right, #ccbbff, #7427ff, #00baff);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	font-family: 900;
+	font-size: 20px;
+}
+.paragraph_buytoken3 {
+	font-size: 13px !important;
+	font-weight: 900;
+	text-align: center;
+	padding: 0px 261px 0 351px !important;
+	background: linear-gradient(to right, #ccbbff, #7427ff, #00baff);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+button.btn.btn.button1 {
+	background: #eb63d9;
+}
+.buy_token_paragraph {
+	padding: 0px 247px 0px 336px !important;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
